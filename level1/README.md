@@ -1,4 +1,4 @@
 # Starter Web Project
-## Introduction
+Introduction
 ## Purpose
-## How To Contribue
+How To Contribue
